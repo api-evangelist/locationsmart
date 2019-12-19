@@ -1,0 +1,58 @@
+{
+    "name": "LocationSmart",
+    "description": "<p>LocationSmart is the worldwide Cloud Location Services market leader for connected devices. We provide the easiest and most comprehensive patented platform for local, hyper-local and context-aware application development.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28350-www-locationsmart-com.jpg",
+    "tags": [
+        "api not found",
+        "api provider",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/locationsmart\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LocationSmart",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28350-www-locationsmart-com.jpg",
+            "humanURL": "https:\/\/www.locationsmart.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/locationsmart-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/locationsmart"
+        },
+        {
+            "type": "Email",
+            "url": "info@locationsmart.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@locationsmart.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@locationsmart.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/locationsmart"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.locationsmart.com"
+        }
+    ]
+}
